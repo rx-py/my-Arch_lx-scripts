@@ -15,7 +15,7 @@ I made this repo to share useful scripts I use on a daily on my arch system so t
 
 ## Usage
 
-To use these configuration files, simply copy the contents of this repository to which ever directory you would like.
+It's always a good idea to double check codes you're about to use on your system. You can simply copy the contents of this repository to which ever directory you would like.
 
 
 ```bash
