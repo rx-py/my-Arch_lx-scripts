@@ -9,8 +9,7 @@
 </a>
 </div>
 
-This repo holds the dotfiles for my hyprland setup on Arch Linux. [Hyprland](https://wiki.hyprland.org/). I intend to keep adding on this.
-
+I made this repo to share useful scripts I use on a daily on my arch system so these scripts are intended to work on linux systems.
 
 
 
@@ -20,8 +19,8 @@ To use these configuration files, simply copy the contents of this repository to
 
 
 ```bash
-git clone https://github.com/rx-py/hyprland-dotfi.git 
-cd hyprland-dotfi
+git clone https://github.com/rx-py/my-Arch_lx-scripts.git
+cd my-Arch_lx-scripts
 ```
 
 ```bash
